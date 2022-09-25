@@ -1,0 +1,25 @@
+.logoLogin{
+    width: 110px;
+    margin:0px auto;
+    margin-bottom: 0px;
+}
+
+.card {
+    width: 450px;
+    margin: 0px;
+    top: 130px;
+}
+
+.form-body {
+    height: 330px;
+    padding: 20px;
+}
+
+.form-control {
+    height: 40px;
+}
+
+.form-actions {
+    height: 30px;
+}
+
